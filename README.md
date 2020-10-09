@@ -1,5 +1,5 @@
-# TOD-Manual
-This repository contains the following Appendices of the EUROCONTROL Terrain an Obstacle Data Manual (TOD), Edition 2.3:
+# EUROCONTROL TOD Manual
+This repository contains the following Appendices of the EUROCONTROL Terrain an Obstacle Data Manual (TOD), Edition 3.0:
 * Appendix (TBD): The obstacle-data-converter developed as a comandline tool used to convert AIXM 5.1(.1) data into an Excel spreadsheet.
 * Appendix (TBD): The vertification rules (TBD)
 * Furthermore Appendix (TBD) the Specimen of the ICAO Obstacle data sets are availalbe in another AIXM Github repository: https://github.com/aixm/donlon  
